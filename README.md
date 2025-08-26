@@ -1,0 +1,1 @@
+This project analyzed the overall transaction situation of a potato chip company and customer behavior analysis. Experimental stores and control stores were selected to test whether the new store layout promoted consumption.
